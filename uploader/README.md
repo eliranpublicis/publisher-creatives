@@ -24,3 +24,5 @@ The existing Cloudflare secret `CLOUDFLARE_API_TOKEN` must remain configured on 
 
 
 Build trigger: Cloudflare Git integration connected on 2026-10-02.
+
+Build trigger retry: 2026-10-02T01:18+03:00
