@@ -21,3 +21,6 @@ Cloudflare should deploy this folder with:
 The Worker name in `wrangler.jsonc` is `publisher-creatives-uploader`, so deployment updates the existing Worker rather than creating a differently named service.
 
 The existing Cloudflare secret `CLOUDFLARE_API_TOKEN` must remain configured on the Worker and must never be committed to Git.
+
+
+Build trigger: Cloudflare Git integration connected on 2026-10-02.
